@@ -152,13 +152,6 @@ class Game:
         plt.show()
 
 
-
-
-
-
-
-
-
 if __name__ == "__main__":
     my_game = Game(10)
     my_game.run_game(50, 10, 25, 5)
